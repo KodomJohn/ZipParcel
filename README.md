@@ -1,4 +1,4 @@
-ZipParcel Logistics Analytics
+ZipParcel Logistics Analytics.
 A end-to-end data analytics project simulating a real parcel delivery company.
 
 - Project Overview
